@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UnityNdimande
-- 👀 I’m interested in Front End development
+- 👀 I’m interested in Front and Back End development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on web design and development projects
 - 📫 How to reach me www.linkedin.com/in/
