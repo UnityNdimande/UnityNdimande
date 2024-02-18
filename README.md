@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UnityNdimande
 - 👀 I’m interested in Fullstack development, Cloud computing and DevOps
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning Javascript and PHP
 - 💞️ I’m looking to collaborate on web design and development projects
 - 📫 How to reach me www.linkedin.com/in/
 unity-n-92a925225
